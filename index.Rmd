@@ -1,0 +1,15 @@
+---
+title: "WIDS Demo"
+---
+ 
+I am Grace Lefferts and am doing a live demo at a weekly WIDS general meeting.
+
+```{r}
+x = 5+2
+x
+```
+
+[Github link](https://github.com/graceleff05)
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/30/Vulpes_vulpes_ssp_fulvus.jpg)
+
