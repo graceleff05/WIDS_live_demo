@@ -1,0 +1,7 @@
+name: "WIDS Live Demo"
+output_dir = "."
+
+output:
+  html_document:
+    theme: flatly
+toc: true
