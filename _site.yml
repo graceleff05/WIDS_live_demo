@@ -4,4 +4,4 @@ output_dir = "."
 output:
   html_document:
     theme: flatly
-toc: true
+    toc: true
